@@ -16,3 +16,5 @@ JOIN
   departments department ON employee.department_id
 WHERE
   department.name = ?
+
+-- ? denotes where the name we're searching for would be put in this query.

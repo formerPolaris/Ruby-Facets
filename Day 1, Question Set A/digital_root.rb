@@ -5,7 +5,7 @@
 # Keep repeating until there is only one digit in the result, called the
 # "digital root". Do not use string conversion within your method.
 
-# Polaris's solution and notes
+# Polaris's solution
 
 # This is a recursive solution. Single-digit numbers automatically pass as
 # return values; they're their own digital roots.
